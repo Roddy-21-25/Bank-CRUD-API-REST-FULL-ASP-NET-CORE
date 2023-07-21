@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation.Layer - Bank Api</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientAccountCRUDController.GetAll(AplicationDomain.Layer___Bank_Api.Entities.PaginationValues)">
+            <summary>
+            This will give you all the Clients Account of the API, This Api have Pagination
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientAccountCRUDController.GetById(System.Int32)">
+            <summary>
+            This one doesnt have pagination, but you cant get the client Account by the id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientAccountCRUDController.Insert(AplicationDomain.Layer___Bank_Api.DTOs.ClientAccountDTO,System.Int32,System.String)">
+            <summary>
+            post a NEW Client Account, {If you dont complete any box, in SQL will be NULL.}
+            </summary>
+            <param name="clientDTO"></param>
+            <param name="password"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientAccountCRUDController.Update(System.Int32,AplicationDomain.Layer___Bank_Api.DTOs.ClientAccountDTO,System.Int32,System.String)">
+            <summary>
+            Update the Client Account {If you dont complete any box, in SQL will be NULL.}
+            </summary>
+            <param name="id"></param>
+            <param name="clientDTO"></param>
+            <param name="password"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientAccountCRUDController.Delete(System.Int32)">
+            <summary>
+            This will delete the client Account, By the Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientCRUDController.GetAll(AplicationDomain.Layer___Bank_Api.Entities.PaginationValues)">
+            <summary>
+            This will give you all the Clients of the API, This Api have Pagination        
+            </summary>
+            <param name="value">Prueba</param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientCRUDController.GetById(System.Int32)">
+            <summary>
+            This one doesnt have pagination, but you cant get the client by the id.
+            </summary>
+            <param name="id">KLK</param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientCRUDController.Insert(AplicationDomain.Layer___Bank_Api.DTOs.ClientDTO,System.String)">
+            <summary>
+            post a NEW Client {If you dont complete any box, in SQL will be NULL.}
+            </summary>
+            <param name="clientDTO"></param>
+            <param name="password"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientCRUDController.Update(System.Int32,AplicationDomain.Layer___Bank_Api.DTOs.ClientDTO,System.String)">
+            <summary>
+            Update the Client {If you dont complete any box, in SQL will be NULL.}
+            </summary>
+            <param name="id"></param>
+            <param name="clientDTO"></param>
+            <param name="password"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.ClientCRUDController.Delete(System.Int32)">
+            <summary>
+            This will delete the client, By the Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomain.Layer___Bank_Api.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:Presentation.Layer___Bank_Api.Controllers.TokenController.Authentication(AplicationDomain.Layer___Bank_Api.Entities.BankAccountDTO)">
+            <summary>
+            Here You will To Get Token for to Use the Crud Methods
+            </summary>
+            <param name="newAdmin"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

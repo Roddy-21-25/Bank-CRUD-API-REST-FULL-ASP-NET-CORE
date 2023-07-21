@@ -1,0 +1,17 @@
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\bin\Debug\net6.0\Infraestructure.Layer - Bank Api.deps.json
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\bin\Debug\net6.0\Infraestructure.Layer - Bank Api.runtimeconfig.json
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\bin\Debug\net6.0\Infraestructure.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\bin\Debug\net6.0\Infraestructure.Layer - Bank Api.pdb
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\bin\Debug\net6.0\AplicationDomain.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\bin\Debug\net6.0\AplicationDomain.Layer - Bank Api.pdb
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.AssemblyInfo.cs
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.csproj.CopyComplete
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\refint\Infraestructure.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.pdb
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\Infraestructure.Layer - Bank Api.genruntimeconfig.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\Infraestructure.Layer - Bank Api\obj\Debug\net6.0\ref\Infraestructure.Layer - Bank Api.dll

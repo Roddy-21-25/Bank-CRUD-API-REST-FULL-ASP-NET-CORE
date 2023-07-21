@@ -1,0 +1,12 @@
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\bin\Debug\net6.0\AplicationDomain.Layer - Bank Api.deps.json
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\bin\Debug\net6.0\AplicationDomain.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\bin\Debug\net6.0\AplicationDomain.Layer - Bank Api.pdb
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.AssemblyInfo.cs
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\refint\AplicationDomain.Layer - Bank Api.dll
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\AplicationDomain.Layer - Bank Api.pdb
+C:\Users\roddy\source\repos\BANK API 3 PROYECT\AplicationDomain.Layer - Bank Api\obj\Debug\net6.0\ref\AplicationDomain.Layer - Bank Api.dll

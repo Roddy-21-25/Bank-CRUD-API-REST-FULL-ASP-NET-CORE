@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0MO2YZKuFp9PuwKTXioszBPXfjIz1SkIQQByYB6aZAVlA0sLdh9WmOaWfPOcDJKZEYe6By/OYKnMnohYPOXLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roddy\\source\\repos\\BANK API 3 PROYECT\\AplicationDomain.Layer - Bank Api\\AplicationDomain.Layer - Bank Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roddy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\roddy\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\roddy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\roddy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
